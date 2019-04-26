@@ -110,7 +110,7 @@ require(['jquery','sayname'], function($,my){
 ### CMD规范
 1. 定义方法
 ```js
-defin(factory);
+define(factory);
 ```
 在依赖部分，CMD支持动态引入;
 ```js
